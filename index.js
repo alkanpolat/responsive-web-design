@@ -1,1 +1,1 @@
-console.log("Git Denemeleri");
+console.log("Git Denemeleri2");
